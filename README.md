@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=180&section=header&text=Welcome%20to%20Chahidatou's%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn)
+![Header](https://i.pinimg.com/736x/bf/bb/eb/bfbbebd45f3e01a1547f88e6e728e790.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahidatou-ouro-agoro/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oagchahidatou@gmail.com)
@@ -9,11 +9,17 @@
 
 ## About me
 
-First-year engineering student at CESI, after two years of a preparatory cycle with a computer science minor.
+I am COmputer Engineering Student with an interest in building reliable software, embedded systems, and network solutions. Driven by curiosity and problem-solving, I'm currently building practical experience through web development, which felt like the more accessible entry point at this stage but I'm still open to exploring other areas along the way. I enjoy taking on technical challenges from developping a proof of concept to guide a robot using EEG to designing IoT prototypes and secure network architectures.
 
-I'm aiming to work in cybersecurity or DevOps long-term, but I'm currently building practical experience through web development, which felt like the more accessible entry point at this stage. Still open to exploring other areas along the way.
+
 
 Looking for an internship starting in January (France or abroad).
+
+ 
+- 🔭 **Current Focus**: Refining my skills in Object-Oriented Programming (C++), Systems Development, and Web Architectures.
+- 🗣️ **Languages**: English (C1), French (Native), German (B1), Chinese (B1).
+- ⚡ **Fun Fact**: Big fan of basketball, table tennis, and video games!
+- 📫 **Connect with me**: [LinkedIn](https://linkedin.com/in/votre-profil)
 
 ## Technologies
 
@@ -44,6 +50,6 @@ A simulation of Conway's Game of Life, modeling how cell states evolve over time
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=100&section=footer)
+![Footer](https://i.pinimg.com/1200x/b7/f5/ee/b7f5eead99e2a1a2f677863dfc8cd058.jpg)
 
 </div>
