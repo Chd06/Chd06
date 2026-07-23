@@ -9,17 +9,11 @@
 
 ## About me
 
-I am COmputer Engineering Student with an interest in building reliable software, embedded systems, and network solutions. Driven by curiosity and problem-solving, I'm currently building practical experience through web development, which felt like the more accessible entry point at this stage but I'm still open to exploring other areas along the way. I enjoy taking on technical challenges from developping a proof of concept to guide a robot using EEG to designing IoT prototypes and secure network architectures.
-
-
+I am Computer Engineering Student with an interest in building reliable software, embedded systems, and network solutions. Driven by curiosity and problem-solving, I'm currently building practical experience through web development, which felt like the more accessible entry point at this stage but I'm still open to exploring other areas along the way. I enjoy taking on technical challenges from developping a proof of concept to guide a robot using EEG to designing IoT prototypes and secure network architectures.
 
 Looking for an internship starting in January (France or abroad).
 
- 
-- 🔭 **Current Focus**: Refining my skills in Object-Oriented Programming (C++), Systems Development, and Web Architectures.
-- 🗣️ **Languages**: English (C1), French (Native), German (B1), Chinese (B1).
-- ⚡ **Fun Fact**: Big fan of basketball, table tennis, and video games!
-- 📫 **Connect with me**: [LinkedIn](https://linkedin.com/in/votre-profil)
+ Feel free to contact me here or via mail if my profile picks your interest :) : [LinkedIn](https://linkedin.com/in/votre-profil)
 
 ## Technologies
 
@@ -46,7 +40,7 @@ Scripts written during my internship at LAB'CESI, for a system that guides a rob
 `Python`
 
 **[Game of Life](https://github.com/Chd06/Projet_jeu_de_la_vie)**
-A simulation of Conway's Game of Life, modeling how cell states evolve over time.
+A simulation of Conway's Game of Life, modeling how cell states evolve over time. `C++` `Object Oriented Programming`
 
 <div align="center">
 
