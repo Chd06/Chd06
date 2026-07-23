@@ -1,14 +1,23 @@
-# Chahidatou Ouro-Agoro
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=180&section=header&text=Welcome%20to%20Chahidatou's%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahidatou-ouro-agoro/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oagchahidatou@gmail.com)
+
+</div>
+
+## About me
 
 First-year engineering student at CESI, after two years of a preparatory cycle with a computer science minor.
 
-I'm aiming to work in cybersecurity or DevOps long-term, but I'm currently building up practical experience through web development, which felt like the more accessible entry point at this stage. Still open to exploring other areas along the way.
+I'm aiming to work in cybersecurity or DevOps long-term, but I'm currently building practical experience through web development, which felt like the more accessible entry point at this stage. Still open to exploring other areas along the way.
 
 Looking for an internship starting in January (France or abroad).
 
-Contact: [oagchahidatou@gmail.com](mailto:oagchahidatou@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chahidatou-ouro-agoro/)
+## Technologies
 
-## Stack
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -18,19 +27,23 @@ Contact: [oagchahidatou@gmail.com](mailto:oagchahidatou@gmail.com) · [LinkedIn]
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
 ## Projects
 
 **[Pass the Aux](https://github.com/Chd06/Pass-the-Aux)**
 A real-time multiplayer game built on the Spotify API. Players add songs to a shared playlist, then try to guess who added what.
-React · Vite · Supabase (Realtime) · Spotify API
+`React` `Vite` `Supabase (Realtime)` `Spotify API`
 
 **[Stage A2 — EEG-based robot control](https://github.com/Chd06/Stage-A2)**
 Scripts written during my internship at LAB'CESI, for a system that guides a robot using an EEG headset.
-Python
+`Python`
 
 **[Game of Life](https://github.com/Chd06/Projet_jeu_de_la_vie)**
 A simulation of Conway's Game of Life, modeling how cell states evolve over time.
 
-## GitHub stats
+<div align="center">
 
-![Chahidatou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chd06&show_icons=true&theme=default&hide_border=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=100&section=footer)
+
+</div>
