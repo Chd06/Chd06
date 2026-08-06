@@ -47,7 +47,7 @@ A real-time multiplayer game built on the Spotify API. Players add songs to a sh
 Scripts written during my internship at LAB'CESI, for a system that guides a robot using an EEG headset.
 `Python`
 
-**[Game of Life](https://github.com/Chd06/Projet_jeu_de_la_vie)**
+**[Game of Life](https://github.com/Chd06/Game_0f_Life)**
 A simulation of Conway's Game of Life, modeling how cell states evolve over time. `C++` `Object Oriented Programming`
 
 <div align="center">
